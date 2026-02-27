@@ -1,2 +1,17 @@
-# cognitive-load-management
-Decision-making framework - https://keeprule.com
+# Cognitive Load Management
+
+Managing cognitive load for better decision quality. Part of [KeepRule](https://keeprule.com) ecosystem.
+
+## Features
+- Framework documentation
+- Real-world examples
+- Practical exercises
+
+## Resources
+- [Principles](https://keeprule.com/en/principles)
+- [Explore](https://keeprule.com/en/prompts)
+- [Learn More](https://keeprule.com/en/blog)
+- [Blog](https://keeprule.com/en/blog)
+
+## License
+MIT
